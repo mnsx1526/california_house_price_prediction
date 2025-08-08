@@ -26,7 +26,7 @@ st.sidebar.image('https://www.shutterstock.com/image-photo/online-real-estate-ho
 
 
 # read_data
-temp_df = pd.read_csv('california.csv')
+temp_df = pd.read_csv('California.csv')
 
 random.seed(52)
 
